@@ -1,0 +1,4 @@
+pytest
+cryptography
+setuptools
+pypandoc
