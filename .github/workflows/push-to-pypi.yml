@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   pypi-publish:
     name: Publish release to PyPI
