@@ -1,5 +1,6 @@
 from .raft_pysync_obj import (
     RaftPysyncObject,
+    RaftPysyncObjectConsumer,
     RaftPysyncObjectConf,
     create_journal,
     ClusterStrategy,
